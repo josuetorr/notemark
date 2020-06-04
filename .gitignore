@@ -1,0 +1,15 @@
+/models
+*.DS_Store
+*.idea/
+*.settings/
+*.project
+/target
+out
+*.iml
+src/interpreter/analysis/
+src/interpreter/node/
+src/interpreter/parser/
+src/interpreter/lexer/
+.vscode/
+generated.html
+.classpath
